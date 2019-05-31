@@ -1,0 +1,106 @@
+[
+	{
+		"name": "Affligem Tripel",
+		"img": "img/affligem_tripel.jpg"
+	},
+	{
+		"name": "Brugse Zot",
+		"img": "img/brugse_zot.jpg"
+	},
+	{
+		"name": "Chimay",
+		"img": "img/chimay.jpg"
+	},
+	{
+		"name": "Duvel",
+		"img": "img/duvel.jpg"
+	},
+	{
+		"name": "Export 8",
+		"img": "img/export_8.jpg"
+	},
+	{
+		"name": "Femme Fatale",
+		"img": "img/femme_fatale.jpg"
+	},
+	{
+		"name": "Gulden Draak",
+		"img": "img/gulden_draak.jpg"
+	},
+	{
+		"name": "Hapkin",
+		"img": "img/hapkin.jpg"
+	},
+	{
+		"name": "Ichtegem's Grand Cru",
+		"img": "img/ichtegems_grand_cru.jpg"
+	},
+	{
+		"name": "Jupiler",
+		"img": "img/jupiler.jpg"
+	},
+	{
+		"name": "Kwak",
+		"img": "img/kwak.jpg"
+	},
+	{
+		"name": "Leffe",
+		"img": "img/leffe.jpg"
+	},
+	{
+		"name": "Mort Subite",
+		"img": "img/mort_subite.jpg"
+	},
+	{
+		"name": "Nello's Blond",
+		"img": "img/nello.jpg"
+	},
+	{
+		"name": "Orval",
+		"img": "img/orval.jpg"
+	},
+	{
+		"name": "Petrus",
+		"img": "img/petrus.jpg"
+	},
+	{
+		"name": "Qantelaar",
+		"img": "img/qantelaar.jpg"
+	},
+	{
+		"name": "Rochefort",
+		"img": "img/rochefort.jpg"
+	},
+	{
+		"name": "Stella Artois",
+		"img": "img/stella_artois.jpg"
+	},
+	{
+		"name": "Tripel Karmeliet",
+		"img": "img/tripel_karmeliet.jpg"
+	},
+	{
+		"name": "Uilenspiegelbier",
+		"img": "img/uilenspiegelbier.jpg"
+	},
+	{
+		"name": "Val-Dieu",
+		"img": "img/val_dieu.jpg"
+	},
+	{
+		"name": "Westvleteren",
+		"img": "img/westvleteren.jpg"
+	},
+	{
+		"name": "XX Bitter",
+		"img": "img/xx_bitter.jpg"
+	},
+	{
+		"name": "Yperman",
+		"img": "img/yperman.jpg"
+	},
+	{
+		"name": "Zeezuiper",
+		"img": "img/zeezuiper.jpg"
+	}
+]

@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  labels:
+    app: belgian-beers
+  name: belgian-beers
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: belgian-beers
+  template:
+    metadata:
+      labels:
+        app: belgian-beers
+    spec:
+      containers:
+      - name: belgian-beers
+        image: belgian-beers:v1
+        ports:
+          - containerPort: 3000
+
