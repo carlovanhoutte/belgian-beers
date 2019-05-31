@@ -5,14 +5,16 @@
   <meta charset="utf-8">
 
   <title>Belgian Beers!</title>
-  <!-- <link rel="stylesheet" href="css/styles.css?v=1.0"> -->
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
-  <h3>Belgian Beers</h3>
-  <% if (beer) { %>
-    <h4><%= counter + ': ' + beer.name %></h4>
-    <img src="<%= beer.img %>" />
-  <% } %>
+  <div class="wrapper">
+      <h3>Belgian Beers</h3>
+      <% if (beer) { %>
+        <h4><%= counter + ': ' + beer.name %></h4>
+        <img src="<%= beer.img %>" />
+      <% } %>
+  </div> 
 </body>
 </html>
